@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">uala</string>
+    <string name="voice_search">Buscar por Voz</string>
+    <string name="search_hint">Buscar platillo</string>
+</resources>
